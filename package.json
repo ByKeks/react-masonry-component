@@ -4,8 +4,9 @@
   "main": "./lib/index",
   "description": "A masonry component for React.js",
   "dependencies": {
-    "masonry": "eiriklv/masonry",
-    "imagesloaded": "eiriklv/imagesloaded"
+    "imagesloaded": "eiriklv/imagesloaded",
+    "isotope-layout": "^2.2.2",
+    "masonry": "eiriklv/masonry"
   },
   "devDependencies": {},
   "scripts": {
